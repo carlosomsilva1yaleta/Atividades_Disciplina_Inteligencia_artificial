@@ -1,0 +1,7 @@
+Links dos notebooks
+
+Atividade 1
+https://colab.research.google.com/drive/1t4Y9kqsfe6U-CgyLWr_JzNcS8z5StWpS?usp=sharing
+
+Atividade 2
+https://colab.research.google.com/drive/1Q6Og6eeLiMdNPKD3jEZVzclvqOUhiimg?usp=sharing
