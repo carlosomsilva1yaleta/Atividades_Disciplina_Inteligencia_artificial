@@ -9,3 +9,4 @@ Um repositório para armazenar as atividades concluídas da disciplina de inteli
 * 23/08/2026 - Corrigi um erro de digitação no enunciado do exercício
 * 23/08/2026 - Atualizei o nome do arquivo "Link do notebook" para "Links dos notebooks", também adicionei o links do notebook da atividade mais recente
 * 23/08/2026 - Adicionei o arquivo vendas.xlsx no repositório
+* 01/10/2026 - Adicionei os notebooks atividade-iris-b0f6ce.ipynb, iris-com-arvore-da-decis-o.ipynb, iris-com-boosting.ipynb, iris-com-floresta-aleat-ria.ipynb, iris-com-svm.ipynb
